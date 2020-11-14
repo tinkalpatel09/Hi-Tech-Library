@@ -1,0 +1,4 @@
+C:\Users\Tinkal\source\repos\FinalProject\HiTechLibrary\HiTechLibrary\bin\Debug\HiTechLibrary.dll
+C:\Users\Tinkal\source\repos\FinalProject\HiTechLibrary\HiTechLibrary\bin\Debug\HiTechLibrary.pdb
+C:\Users\Tinkal\source\repos\FinalProject\HiTechLibrary\HiTechLibrary\obj\Debug\HiTechLibrary.dll
+C:\Users\Tinkal\source\repos\FinalProject\HiTechLibrary\HiTechLibrary\obj\Debug\HiTechLibrary.pdb
